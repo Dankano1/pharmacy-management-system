@@ -1,0 +1,4 @@
+cd pharmacy-management-system
+git add .
+git commit -m "add pharmaceutical quality assurance monitoring"
+git push
