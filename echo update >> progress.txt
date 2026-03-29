@@ -1,0 +1,4 @@
+echo update2 >> progress.txt
+git add .
+git commit -m "Add medicine inventory feature"
+git push
